@@ -21,4 +21,4 @@ gulp.task('watch', function () {
 });
 
 //Задача по умолчанию
-gulp.task('defailt', ['server', 'watch']);
+gulp.task('default', ['server', 'watch']);
